@@ -1,1 +1,1 @@
-{"chuongho", "mhqbdicer"}
+["chuongho", "mhqbdicer"]
