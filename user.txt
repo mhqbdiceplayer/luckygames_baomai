@@ -1,1 +1,1 @@
-["mhqbdicer", "mhqbdiceplayer", "ketnamphi", "quagpz0", "libraqwe", "esportvn", "boyka1k9", "chung", "locphat01", "locphat02"]
+["mhqbdicer", "mhqbdiceplayer", "ketnamphi", "quagpz0", "libraqwe", "esportvn", "boyka1k9", "chung", "locphat01", "locphat02", "main"]
